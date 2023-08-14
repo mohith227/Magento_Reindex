@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <reindex>
+            <general>
+                <enable>1</enable>
+                <individual_reindexing>1</individual_reindexing>
+                <mass_reindexing>1</mass_reindexing>
+            </general>
+        </reindex>
+    </default>
+</config>
