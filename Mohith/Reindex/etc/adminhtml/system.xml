@@ -51,13 +51,13 @@
                         <field id="enable">1</field>
                     </depends>
                     <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
-                    <tooltip>To setup cron from regular interval in a day kindly make use of manual scheduler</tooltip>
+                    <tooltip>To setup cron from regular intervals in a day kindly make use of a manual scheduler</tooltip>
                 </field>
                 <field id="manual_scheduler_for_reindexing" translate="label" type="text" sortOrder="2"
                        showInDefault="1"
                        showInWebsite="0"
                        showInStore="0">
-                    <label>Scheduler For Customer Welcome Email</label>
+                    <label>Scheduler For Reindex</label>
                     <depends>
                         <field id="enable">1</field>
                         <field id="enable_manual_scheduler_for_reindexing">1</field>
