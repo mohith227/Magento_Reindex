@@ -19,7 +19,7 @@ go to store > settings > configurations > MOHITH > Reindex > Set "Yes" on Enable
 
 Set "Yes" to Enable Manual Scheduler for Reindex under the Cron Configuration of Reindex tab.
 
-1. Enter the schedule and the space between each Schedule Example: "For every Second * * * *".
+1. Enter the schedule and the space between each Schedule Example: "For every Second * * * * *".
    
 #### Default Scheduler
 
