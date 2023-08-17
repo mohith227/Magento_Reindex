@@ -8,6 +8,11 @@
                 <individual_reindexing>1</individual_reindexing>
                 <mass_reindexing>1</mass_reindexing>
             </general>
+            <Cron>
+                <enable>1</enable>
+                <enable_manual_scheduler_for_reindexing>1</enable_manual_scheduler_for_reindexing>
+                <manual_scheduler_for_reindexing>*/5 * * * *</manual_scheduler_for_reindexing>
+            </Cron>
         </reindex>
     </default>
 </config>
