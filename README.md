@@ -13,7 +13,7 @@ This module is used to run the reindexing from the admin. To enable this module,
 2. Go to System > Tools > Index Management. You can find the "Reindex All" option in the Dropdown on the Index Management Page.
 
 #### Cron Config for Reindexing
-go to store > settings > configurations > MOHITH > Reindex > Set "Yes" on Enable, and Set "Yes" to Enable Cron Reindex
+Go to store > settings > configurations > MOHITH > Reindex > Set "Yes" on Enable, and Set "Yes" to Enable Cron Reindex
 
 #### Manual Scheduler.
 
@@ -27,5 +27,7 @@ Set "No" Enable Manual Scheduler for Reindex under the Cron Configuration of Rei
 
 1. Select the frequency per your need in the frequency section ( Daily, Weekly, Monthly).
 2. Set the time under the start time section.
-   
+
+To Know more about how to use this Modlue refer to: https://itsmoblogs.blogspot.com/2023/08/magento-2-how-to-reindex-from-admin-backend.html
+
 Thank you for using the module. Always happy to hear from you. The code improvements and module enhancements are appreciated. For any Magento 2 projects or Magento 2 freelancing, contact me at "mohithdeveloper@gmail.com".
